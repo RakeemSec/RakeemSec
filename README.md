@@ -14,7 +14,7 @@
 
 ---
 
-IT professional with **8+ years in systems support and administration**, now transitioning into cybersecurity. Currently an IT Support Specialist actively pursuing a **BS in Cybersecurity & Information Assurance at WGU** (CAPSTONE remaining). My hands-on work spans cloud security, SIEM deployment, vulnerability assessment, and identity management — backed by multiple industry certifications and a live homelab running a full defensive security stack.
+Cybersecurity professional transitioning from **9+ years in enterprise IT operations**, including identity lifecycle administration for 500+ Microsoft Entra ID accounts. My experience includes MFA, Conditional Access, privileged-access procedures, Linux systems, endpoint hardening, incident escalation, and IT/OT access controls. I am pursuing a **BS in Cybersecurity & Information Assurance at WGU** (capstone remaining) and building hands-on projects in Microsoft Sentinel, identity security, and vulnerability assessment.
 
 **I'm actively seeking roles in:** Security Analysis · SOC Operations · Identity & Access Management · Cloud Security · Systems Administration
 
@@ -25,7 +25,7 @@ IT professional with **8+ years in systems support and administration**, now tra
 | Project | Description | Link |
 |---|---|---|
 | **Microsoft Sentinel SIEM — Azure** | Deployed a cloud SIEM with a live Windows 11 honeypot exposed to the internet. Captured real-world RDP brute-force attempts, wrote KQL queries to detect and geolocate attack sources, and built an attack map Workbook in Sentinel. | <a href="https://github.com/RakeemSec/Microsoft-Sentinel-SIEM-Deployment-in-Azure">View Project</a> |
-| **Nessus Vulnerability Assessment** | Conducted a full vulnerability assessment against Windows 10, Ubuntu Server, and pfSense VMs in an isolated lab. Identified 3 Critical and 12 High findings (including Apache CVE-2021-41773 and SMB Signing), documented CVE/CVSS scores, and produced a formal remediation plan. | <a href="https://github.com/RakeemSec/Nessus-Vulnerability-Assesstment">View Project</a> |
+| **Nessus Vulnerability Assessment** | Built an isolated VirtualBox lab with Windows 10, Ubuntu Server 22.04, and pfSense targets. Configured and ran a Nessus Essentials Basic Network Scan, reviewed scanner output, and documented an evidence-conscious remediation-planning workflow. | <a href="https://github.com/RakeemSec/Nessus-Vulnerability-Assesstment">View Project</a> |
 | **Secure Access with Azure AD / Entra ID** | Configured users, groups, SSPR, and per-user MFA in a Microsoft Entra ID cloud lab. Built around a realistic enterprise scenario with a fictional company and new-hire onboarding workflow. | <a href="https://github.com/RakeemSec/Secure-Access-With-Azure-Active-Directory">View Project</a> |
 | **Phishing Attack Simulator** | Simulating real-world phishing scenarios to test user awareness and security readiness. | 🚧 Coming Soon |
 
@@ -112,10 +112,6 @@ My homelab runs on a **Proxmox hypervisor** with isolated network segments — o
     <img src="https://img.shields.io/badge/-Oracle_Cloud_Infrastructure_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   </a>
 </div>
-
-> 💡 Add your Credly links to the Security+, CySA+, and Network+ badges so recruiters can verify them directly.
-
----
 
 ## 📚 Currently Pursuing
 
